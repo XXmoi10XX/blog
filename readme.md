@@ -1,4 +1,4 @@
-larabel学習
+larabel学習で作ったファイルです。
 
 参考サイト
 Youtube Laravel入門　
